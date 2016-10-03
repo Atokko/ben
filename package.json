@@ -1,0 +1,22 @@
+{
+  "name": "@atokko/ben",
+  "version": "1.0.0",
+  "description": "HINES FIELD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atokko/ben.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atokko/ben/issues"
+  },
+  "homepage": "https://github.com/Atokko/ben#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
